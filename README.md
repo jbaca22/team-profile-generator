@@ -6,4 +6,4 @@
 
 #The emails are interactive and will take the user to send an email
 
-![Untitled](https://user-images.githubusercontent.com/63439798/87275524-847d4a80-c49b-11ea-9898-d573951aa4a0.gif)
+<iframe src='//gifs.com/embed/how-to-use-BNJ83X' frameborder='0' scrolling='no' width='590px' height='370px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
