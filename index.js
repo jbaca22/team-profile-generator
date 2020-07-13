@@ -1,6 +1,10 @@
 const inquirer = require('inquirer');
 const fs = require ('fs')
 
+let intern = [];
+let manager = [];
+let engineer = [];
+
 const promptUser = function () {
     return inquirer.prompt ([
         {
@@ -101,16 +105,16 @@ const menu = function () {
             addEngineer();
         }
         else if (responses.menu1 === 'Finish making a Team') {
-            console.log("booty")
+            generatePage();
         }
         else {
-            console.log("please make a decision!")
+            console.log("see ya later!")
         }
     });
 }
 
 const writeFile = fileContent => {
-    
+
 }
 
 
