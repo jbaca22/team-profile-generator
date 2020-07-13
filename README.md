@@ -6,4 +6,4 @@
 
 #The emails are interactive and will take the user to send an email
 
-<iframe src='//gifs.com/embed/how-to-use-BNJ83X' frameborder='0' scrolling='no' width='590px' height='370px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+https://gifs.com/gif/how-to-use-BNJ83X
