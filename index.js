@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-
+const fs = require ('fs')
 
 const promptUser = function () {
     return inquirer.prompt ([
@@ -108,6 +108,11 @@ const menu = function () {
         }
     });
 }
+
+const writeFile = fileContent => {
+    
+}
+
 
 promptUser()
     
